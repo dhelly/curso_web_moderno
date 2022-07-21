@@ -16,7 +16,7 @@ O curso pretende demonstrar uma visão geral nas principais tecnologias web adot
 ## Ferramentas
 
 - VScode - Editor
-  - Extensão: Code Runner
+  - Extensão: Code Runner (ativar: CTRL+ALT+N)
 
 ## Licença
 
